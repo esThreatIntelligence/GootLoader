@@ -1,0 +1,1 @@
+# Gootloader-compromised URL list
