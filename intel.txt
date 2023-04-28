@@ -1,4 +1,4 @@
-https://www.esentire.com/web-native-pages/gootloader-unloaded
+https://www.esentire.com/blog/protecting-end-users-against-the-gootloader-malware-threat-using-the-gootloader-operators-own-tactics
 https://www.esentire.com/blog/hackers-attack-employees-from-six-law-firms-with-the-gootloader-and-socgholish-malware-using-fake-legal-agreements-and-malicious-watering-hole-s-reports-esentire
 https://www.esentire.com/blog/gootloader-leads-to-cobalt-strike-and-hand-on-keyboard-activity
 https://www.esentire.com/blog/gootloader-striking-with-a-new-infection-technique
